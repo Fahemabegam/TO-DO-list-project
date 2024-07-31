@@ -1,2 +1,2 @@
-# TO-DO-list-project
+TO-DO-list-project
 This is my first project on github 
